@@ -1,3 +1,3 @@
-# Hello Word!
+# Hello World!
  First repository 
 
